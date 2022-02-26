@@ -1,0 +1,12 @@
+.mainpage_container{
+    height:652px;
+    background-color: #eff2f5;
+    
+}
+.middleContainer{
+    margin-left: 50px !important;
+    overflow-y: scroll;
+    height: 650px;
+    /* scrollbar-width: thin; */
+    max-width: 650px !important;
+}
